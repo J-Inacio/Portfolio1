@@ -1,0 +1,12 @@
+body{
+    background-color: #383A59
+    
+}
+h1,h2,h3{
+    background-color: #FFB86C;
+    font-family: fantasy;
+}
+p,ul{
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+}
