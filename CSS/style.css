@@ -10,3 +10,16 @@ p,ul{
     font-family: 'Courier New', Courier, monospace;
     color: aliceblue;
 }
+.div{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin: 0 auto;
+    background-color: red;
+
+    
+}
+.div img{ width: 150px;
+
+}
